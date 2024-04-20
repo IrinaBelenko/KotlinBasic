@@ -1,8 +1,5 @@
 package org.example.lesson_1_10.lesson_14
 
-import lesson_17.BabelFish
-import lesson_18.*
-import java.util.Date
 
 
 fun main() {
